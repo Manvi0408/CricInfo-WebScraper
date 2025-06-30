@@ -1,5 +1,10 @@
+
 # CricInfo-WebScraper
 Description- The Cricinfo Web Scraper is a tool built to extract detailed information about cricketers (such as scores, centuries, batting stats, and more) from a webpage using web scraping techniques. The project was developed using HTML, CSS, and JavaScript, and its main goal is to collect live statistics of cricket players from a publicly available website like ESPN Cricinfo. This data can then be processed and displayed for analysis, visualization, or other use cases.
+![virat scores](https://github.com/user-attachments/assets/d295b203-1ee0-4158-8c7d-a6ba3f07a8fe)
+![dhoni scores](https://github.com/user-attachments/assets/44584bfd-b455-4bd2-8cda-71300ab0a7cf)
+
+
 
 Tech Stack HTML: HTML is used for structuring the webpage and creating the user interface (UI) elements. In this case, HTML is used to build forms or buttons to allow users to trigger the web scraping process, as well as to display the extracted data in a readable format.
 
