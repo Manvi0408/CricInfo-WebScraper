@@ -1,8 +1,9 @@
 
 # CricInfo-WebScraper
 Description- The Cricinfo Web Scraper is a tool built to extract detailed information about cricketers (such as scores, centuries, batting stats, and more) from a webpage using web scraping techniques. The project was developed using HTML, CSS, and JavaScript, and its main goal is to collect live statistics of cricket players from a publicly available website like ESPN Cricinfo. This data can then be processed and displayed for analysis, visualization, or other use cases.
-![virat scores](https://github.com/user-attachments/assets/d295b203-1ee0-4158-8c7d-a6ba3f07a8fe)
-![dhoni scores](https://github.com/user-attachments/assets/44584bfd-b455-4bd2-8cda-71300ab0a7cf)
+![Screenshot (96)](https://github.com/user-attachments/assets/121aee04-46bf-4ea0-be9a-19cf18b975ae)
+
+![Screenshot (97)](https://github.com/user-attachments/assets/d45b84ee-1378-480f-bbca-4e03e868eb64)
 
 
 
@@ -11,6 +12,11 @@ Tech Stack HTML: HTML is used for structuring the webpage and creating the user 
 CSS: CSS is used for styling the webpage. It ensures the UI is visually appealing and user-friendly. With CSS, you can control layout, fonts, and colors, making the results of the scraper easy to read and understand.
 
 JavaScript: JavaScript is the core technology for implementing the web scraping logic. It is used to dynamically fetch data from the web page, parse the HTML content, and extract the necessary information about batsmen's performances. In this case, JavaScript's ability to interact with the DOM (Document Object Model) and handle asynchronous tasks (like fetching data) is crucial.
+
+![Screenshot (99)](https://github.com/user-attachments/assets/795cb031-333d-4eca-8ce0-658789d8d56e)
+
+
+
 
 Web Scraping Libraries/APIs (If any): If you used any libraries or external APIs, you can mention tools like:
 
